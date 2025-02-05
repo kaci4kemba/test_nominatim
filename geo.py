@@ -32,7 +32,7 @@ def reverse_search(lat, lon):
     data = response.json()
     if "error" in data:
         logger.info(f"По переданным координатам ничего не нашли")
-        return ("Город не найден.")
+        return "Город не найден"
     else:
         logger.info(f"Возвращаем полученную информацию о месте: {data['display_name']}")
         return data["display_name"]
