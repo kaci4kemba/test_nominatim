@@ -25,7 +25,7 @@ def search(place):
         return "Город не найден"
 
 def reverse_search(lat, lon):
-    logger.info(f"Делаем запрос используя {url_base}, {lat} и {lon}")
+    logger.info(f"Составляем url для запроса используя {url_base}, {lat} и {lon}")
     url = f"{url_base}reverse?format=json&lat={lat}&lon={lon}&zoom=18&addressdetails=0&dedupe=0"
     response = requests.get(url, headers=headers)
     logger.info(f"Получаем ответ: {response.json}")
