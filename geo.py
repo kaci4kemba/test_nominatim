@@ -8,7 +8,7 @@ headers = {'User-Agent': 'MyGeocodingApp/1.0 (myemail@example.com)'}
 
 
 def search(place):
-    logger.info(f"Делаем запрос используя {url_base} и {place}")
+    logger.info(f"Составляем url для запроса используя {url_base} и {place}")
     url = f"{url_base}search?q={place}&format=json"
     response = requests.get(url, headers=headers)
     logger.info(f"Получаем ответ: {response.json()}")
