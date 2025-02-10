@@ -4,7 +4,7 @@ import logging
 logger = logging.getLogger(__name__)
 
 url_base = "https://nominatim.openstreetmap.org/"
-headers = {'User-Agent': 'MyGeocodingApp/1.0 (myemail@example.com)'}
+headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
 
 
 def search(place):
