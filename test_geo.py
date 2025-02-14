@@ -4,8 +4,9 @@ from geo import search, reverse_search
 from data_extractor import get_test_data
 
 
-@allure.story("Проверка поиска координат по названию")
+
 @pytest.mark.parametrize("test_data", (get_test_data()))
+@allure.story("Проверка поиска координат по названию")
 def test_search(test_data):
     with allure.step("Подготовка переменных"):
         place = test_data["display_name"]
