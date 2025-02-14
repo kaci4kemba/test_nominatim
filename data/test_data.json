@@ -1,0 +1,170 @@
+[
+    {
+        "place_id": 137154399,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 391594117,
+        "lat": "55.625434850000005",
+        "lon": "12.573653162877768",
+        "class": "leisure",
+        "type": "stadium",
+        "place_rank": 30,
+        "importance": 0.4195710408407686,
+        "addresstype": "leisure",
+        "name": "Royal Arena",
+        "display_name": "Royal Arena, Hannemanns Allé, Ørestad, København, Københavns Kommune, Region Hovedstaden, 2770, Danmark",
+        "boundingbox": [
+            "55.6244805",
+            "55.6262021",
+            "12.5727329",
+            "12.5745590"
+        ]
+    },
+    {
+        "place_id": 89233259,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 5013364,
+        "lat": "214214214214",
+        "lon": "456456456456",
+        "class": "man_made",
+        "type": "tower",
+        "place_rank": 30,
+        "importance": 0.6315091096558462,
+        "addresstype": "man_made",
+        "name": "Tour Eiffel",
+        "display_name": "Tour Eiffel, 5, Avenue Anatole France, Quartier du Gros-Caillou, Paris 7e Arrondissement, Paris, France métropolitaine, 75007, France",
+        "boundingbox": [
+            "48.8574753",
+            "48.8590453",
+            "2.2933119",
+            "2.2956897"
+        ]
+    },
+    {
+        "place_id": 76226637,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 9194723,
+        "lat": "41.4035046",
+        "lon": "2.174428284189003",
+        "class": "tourism",
+        "type": "attraction",
+        "place_rank": 30,
+        "importance": 0.5501492971959381,
+        "addresstype": "tourism",
+        "name": "Basílica de la Sagrada Família",
+        "display_name": "Basílica de la Sagrada Família, 401, Carrer de Mallorca, la Sagrada Família, Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08013, España",
+        "boundingbox": [
+            "41.4030422",
+            "41.4039672",
+            "2.1735675",
+            "2.1749928"
+        ]
+    },
+    {
+        "place_id": 74827546,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 34607291,
+        "lat": "41.38088055",
+        "lon": "2.1228181532426773",
+        "class": "leisure",
+        "type": "stadium",
+        "place_rank": 30,
+        "importance": 0.6156469789341601,
+        "addresstype": "leisure",
+        "name": "Spotify Camp Nou",
+        "display_name": "Spotify Camp Nou, Avinguda de Joan XXIII, Sant Ramon, la Maternitat i Sant Ramon, les Corts, Barcelona, Barcelonès, Barcelona, Catalunya, 08028, España",
+        "boundingbox": [
+            "41.3799311",
+            "41.3818403",
+            "2.1216867",
+            "2.1239343"
+        ]
+    },
+    {
+        "place_id": 89233259,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 5013364,
+        "lat": "asdasd",
+        "lon": "asdasdsadsdgdsgsdg",
+        "class": "man_made",
+        "type": "tower",
+        "place_rank": 30,
+        "importance": 0.6315091096558462,
+        "addresstype": "man_made",
+        "name": "Tour Eiffel",
+        "display_name": "Tour Eiffel, 5, Avenue Anatole France, Quartier du Gros-Caillou, Paris 7e Arrondissement, Paris, France métropolitaine, 75007, France",
+        "boundingbox": [
+            "48.8574753",
+            "48.8590453",
+            "2.2933119",
+            "2.2956897"
+        ]
+    },
+    {
+        "place_id": 155572720,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 417255,
+        "lat": "59.9740978",
+        "lon": "30.33829947913719",
+        "class": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 8.232166018153685e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "60, Большой Сампсониевский проспект, Выборгская сторона, округ Сампсониевское, Санкт-Петербург, Северо-Западный федеральный округ, 194044, Россия",
+        "boundingbox": [
+            "59.9736066",
+            "59.9745946",
+            "30.3367211",
+            "30.3393229"
+        ]
+    },
+    {
+        "place_id": 89233259,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 5013364,
+        "lat": "48.8582599",
+        "lon": "2.2945006358633115",
+        "class": "man_made",
+        "type": "tower",
+        "place_rank": 30,
+        "importance": 0.6315091096558462,
+        "addresstype": "man_made",
+        "name": "Tour Eiffel",
+        "display_name": "Tour Eiffel, 5, Avenue Anatole France, Quartier du Gros-Caillou, Paris 7e Arrondissement, Paris, France métropolitaine, 75007, France",
+        "boundingbox": [
+            "48.8574753",
+            "48.8590453",
+            "2.2933119",
+            "2.2956897"
+        ]
+    },
+    {
+        "place_id": 89233259,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 5013364,
+        "lat": "48.8582599",
+        "lon": "2.2945006358633115",
+        "class": "man_made",
+        "type": "tower",
+        "place_rank": 30,
+        "importance": 0.6315091096558462,
+        "addresstype": "man_made",
+        "name": "Tour Eiffel",
+        "display_name": "asdsad",
+        "boundingbox": [
+            "48.8574753",
+            "48.8590453",
+            "2.2933119",
+            "2.2956897"
+        ]
+    }
+]
